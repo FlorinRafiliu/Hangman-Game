@@ -1,0 +1,45 @@
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\bin\Debug\Atestat_2023.exe.config
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\bin\Debug\Atestat_2023.exe
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\bin\Debug\Atestat_2023.pdb
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.csproj.AssemblyReference.cache
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Form1.resources
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Properties.Resources.resources
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.csproj.GenerateResource.cache
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.csproj.CoreCompileInputs.cache
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.exe
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.pdb
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Login.resources
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Inregistrare.resources
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Joc.resources
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Spanzuratoare.resources
+C:\Users\Florin\source\repos\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Admin.resources
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\bin\Debug\Atestat_2023.exe.config
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\bin\Debug\Atestat_2023.exe
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\bin\Debug\Atestat_2023.pdb
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.csproj.AssemblyReference.cache
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Admin.resources
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.StartPage.resources
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Inregistrare.resources
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Joc.resources
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Login.resources
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Properties.Resources.resources
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Spanzuratoare.resources
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.csproj.GenerateResource.cache
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.csproj.CoreCompileInputs.cache
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.exe
+C:\Users\Florin\Desktop\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.pdb
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\bin\Debug\Atestat_2023.exe.config
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\bin\Debug\Atestat_2023.exe
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\bin\Debug\Atestat_2023.pdb
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.csproj.AssemblyReference.cache
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Admin.resources
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.StartPage.resources
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Inregistrare.resources
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Joc.resources
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Login.resources
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Properties.Resources.resources
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.Spanzuratoare.resources
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.csproj.GenerateResource.cache
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.csproj.CoreCompileInputs.cache
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.exe
+C:\Users\flori\Documents\Fostul Laptop\Bac\Atestat_2023\Atestat_2023\obj\Debug\Atestat_2023.pdb
